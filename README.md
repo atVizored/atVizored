@@ -10,9 +10,7 @@ I am 17 years old and a full-stack Java and Python developer. I mainly develop D
 :pencil: Current Projects
 -------------------------
 
-* Suzuki Bot
-* Auto Idle Miner
-* *& other private ones...*
+* [Melony Bot](https://discord.gg/melonclient)
 
 :keyboard: Programming Languages
 --------------------------------
@@ -23,7 +21,6 @@ I am 17 years old and a full-stack Java and Python developer. I mainly develop D
 * Python
 * C++
 * JavaScript (and NodeJS)
-* TypeScript
 
 ### I'm Learning
 
@@ -31,6 +28,7 @@ I am 17 years old and a full-stack Java and Python developer. I mainly develop D
   * HTML
   * CSS
 * Kotlin
+* TypeScript
 
 :speech_balloon: Contact Me
 ---------------------------
