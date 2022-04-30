@@ -11,6 +11,8 @@ I am 17 years old and a full-stack Java and Python developer. I mainly develop D
 -------------------------
 
 * [Melony Bot](https://discord.gg/melonclient)
+* Namecraft Bot
+* SMC
 
 :keyboard: Programming Languages
 --------------------------------
