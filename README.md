@@ -10,7 +10,6 @@ I am 17 years old and a full-stack Java and Python developer. I mainly develop D
 :pencil: Current Projects
 -------------------------
 
-* [Melony Bot](https://discord.gg/melonclient)
 * Namecraft Bot
 * SMC
 
