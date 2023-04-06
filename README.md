@@ -3,15 +3,13 @@
 :wave: Hey, I'm Vizored.
 ========================
 
-I am 17 years old and a full-stack Java and Python developer. I mainly develop Discord bots, Minecraft plugins, and occasionally other things.
+I am 18 years old and a full-stack Java and Python developer. I mainly develop Discord bots, Minecraft plugins, and occasionally other things.
 <br>
-*I also play Minecraft PvP.*
 
 :pencil: Current Projects
 -------------------------
 
-* Namecraft Bot
-* SMC
+* Commission work
 
 :keyboard: Programming Languages
 --------------------------------
